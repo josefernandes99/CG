@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4d278b925d9f8ac42a9fa8554fb232ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - copPrefab: {fileID: 919132149155446097, guid: 579046ae10a9d6f48bcf071ad4da80e4, type: 3}
+  - robberPrefab: {fileID: 919132149155446097, guid: 9903c810b5945fc449450e52c7129698, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
